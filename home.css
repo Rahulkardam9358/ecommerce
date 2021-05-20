@@ -1,0 +1,66 @@
+h2.brand{
+    font-size: 40px;
+    margin-left: 20px;
+    font-weight: 700;
+    color: rgb(0, 76, 63);
+}
+div.sticky{
+    position: sticky;
+    background: rgb(251, 247, 237);
+    top: 0;
+    z-index: 1000;
+}
+.nav-item a, .nav-item a:hover{
+    color: black;
+}
+.navbar-toggler-icon{
+    color: cadetblue;
+}
+.categories h2{
+    color: rgb(0, 76, 63);
+}
+.categories .btn{
+    background: rgb(0, 76, 63);
+    color: #fff;
+}
+.cart>h3{
+    color: rgb(0, 76, 63);
+}
+.total{
+    color: rgb(0, 76, 63);
+    position: sticky;
+    top: 100px;
+}
+.total a, .total a:hover{
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    background: rgb(0, 76, 63);
+}
+.newsletter h2{
+    color: rgb(0, 76, 63);
+}
+.subscribe input{
+    height: 40px;
+    border-radius: 20px;
+    padding: 0 20px;
+    border: 1px solid rgb(230, 205, 144);
+    outline: none;
+}
+.checkout button, .checkout button:hover{
+    color: #fff;
+    background: rgb(0, 76, 63);
+}
+.subscribe button{
+    height: 40px;
+    border-radius: 20px;
+    outline: none;
+    color: white;
+    background: rgb(0, 76, 63);
+}
+.footer{
+    background: rgb(251, 247, 237);
+}
+.footer .lower{
+    background: rgb(230, 205, 144);
+}
