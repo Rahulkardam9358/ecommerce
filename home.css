@@ -1,8 +1,12 @@
 h2.brand{
-    font-size: 40px;
+    font-size: 45px;
     margin-left: 20px;
     font-weight: 700;
     color: rgb(0, 76, 63);
+}
+h2.brand span{
+    font-size: 35px;
+    color: rgb(230, 205, 144);
 }
 div.sticky{
     position: sticky;
@@ -15,6 +19,9 @@ div.sticky{
 }
 .navbar-toggler-icon{
     color: cadetblue;
+}
+section#categories{
+    border: 2px solid white;
 }
 .categories h2{
     color: rgb(0, 76, 63);
